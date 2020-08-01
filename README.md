@@ -1,4 +1,4 @@
-# Vendas-Sales---Dashboard 📈
+# Vendas Sales Dashboard 📈
 
 ## 📝 Description 
 
