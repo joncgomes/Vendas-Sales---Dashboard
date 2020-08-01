@@ -7,7 +7,7 @@ e realizamos o tratamento de dados através da ferramenta PowerBI.
 
 # # Dashboard Presentation (COVID19) (BR)
 
-![Screenshot](dashboardCovid.PNG)
+![Screenshot](dashboardVendas.PNG)
 
 <br><br>
 # Tratament Data
@@ -20,7 +20,7 @@ Realizei alguns tratamentos e medidas, tais como:
 • Qtde Novos Casos.
 <br><br>
 
-![Screenshot](medidasCovid.PNG)
+![Screenshot](tratamentoVendas.PNG)
 
 <br><br>
 ## 🚀 Technologies Used 
